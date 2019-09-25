@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/todo-app/static/css/main.ac5b0db4.chunk.css",
-    "main.js": "/todo-app/static/js/main.a47bb647.chunk.js",
-    "main.js.map": "/todo-app/static/js/main.a47bb647.chunk.js.map",
-    "runtime~main.js": "/todo-app/static/js/runtime~main.c7cb45b0.js",
-    "runtime~main.js.map": "/todo-app/static/js/runtime~main.c7cb45b0.js.map",
-    "static/css/2.e02ce6f5.chunk.css": "/todo-app/static/css/2.e02ce6f5.chunk.css",
-    "static/js/2.22571d4b.chunk.js": "/todo-app/static/js/2.22571d4b.chunk.js",
-    "static/js/2.22571d4b.chunk.js.map": "/todo-app/static/js/2.22571d4b.chunk.js.map",
-    "index.html": "/todo-app/index.html",
-    "precache-manifest.5962aee56b92a158e554c52937e6c70b.js": "/todo-app/precache-manifest.5962aee56b92a158e554c52937e6c70b.js",
-    "service-worker.js": "/todo-app/service-worker.js",
-    "static/css/2.e02ce6f5.chunk.css.map": "/todo-app/static/css/2.e02ce6f5.chunk.css.map",
-    "static/css/main.ac5b0db4.chunk.css.map": "/todo-app/static/css/main.ac5b0db4.chunk.css.map",
-    "static/media/all.css": "/todo-app/static/media/fa-solid-900.db525089.woff"
+    "main.css": "/Todo-App/static/css/main.ac5b0db4.chunk.css",
+    "main.js": "/Todo-App/static/js/main.a47bb647.chunk.js",
+    "main.js.map": "/Todo-App/static/js/main.a47bb647.chunk.js.map",
+    "runtime~main.js": "/Todo-App/static/js/runtime~main.b28af395.js",
+    "runtime~main.js.map": "/Todo-App/static/js/runtime~main.b28af395.js.map",
+    "static/css/2.d14d8d42.chunk.css": "/Todo-App/static/css/2.d14d8d42.chunk.css",
+    "static/js/2.22571d4b.chunk.js": "/Todo-App/static/js/2.22571d4b.chunk.js",
+    "static/js/2.22571d4b.chunk.js.map": "/Todo-App/static/js/2.22571d4b.chunk.js.map",
+    "index.html": "/Todo-App/index.html",
+    "precache-manifest.bdea9c287b675606d242593059f8778d.js": "/Todo-App/precache-manifest.bdea9c287b675606d242593059f8778d.js",
+    "service-worker.js": "/Todo-App/service-worker.js",
+    "static/css/2.d14d8d42.chunk.css.map": "/Todo-App/static/css/2.d14d8d42.chunk.css.map",
+    "static/css/main.ac5b0db4.chunk.css.map": "/Todo-App/static/css/main.ac5b0db4.chunk.css.map",
+    "static/media/all.css": "/Todo-App/static/media/fa-solid-900.db525089.woff"
   }
 }
